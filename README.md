@@ -12,7 +12,7 @@ This is a Power BI dashboard project for analyzing customer churn data. It helps
 ## Files Included
 
 - `churn_analysis.pbix` – Power BI dashboard file
-- `churn_dashboard.png` – Preview image of the dashboard
+- `churnanalysis.png` – Preview image of the dashboard
 - `README.md` – Project description
 
 ## Tools Used
