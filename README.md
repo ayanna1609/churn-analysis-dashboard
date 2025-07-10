@@ -2,8 +2,6 @@
 
 This is a Power BI dashboard project for analyzing customer churn data. It helps visualize key metrics such as churn rate, churn by age group, service usage, and more.
 
-![Dashboard Screenshot](churn_dashboard.png)
-
 ## Key Features
 
 - Total Customers, Churn Rate, New Joiners
